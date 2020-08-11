@@ -1,7 +1,7 @@
-import concatLo from 'lodash/concat';
-import getLo from 'lodash/get';
-import sliceLo from 'lodash/slice';
-import toPathLo from 'lodash/toPath';
+import concatLo from 'lodash.concat';
+import getLo from 'lodash.get';
+import sliceLo from 'lodash.slice';
+import toPathLo from 'lodash.topath';
 
 const emptyObject = {};
 const emptyArray: any[] = [];

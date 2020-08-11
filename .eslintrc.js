@@ -20,6 +20,7 @@ module.exports = {
     'prettier/prettier': 2,
     '@typescript-eslint/no-unsafe-assignment': 0,
     '@typescript-eslint/no-unsafe-return': 0,
+    '@typescript-eslint/no-unsafe-call': 0,
     '@typescript-eslint/restrict-template-expressions': 0,
     '@typescript-eslint/no-explicit-any': 0,
     '@typescript-eslint/explicit-module-boundary-types': 0,
